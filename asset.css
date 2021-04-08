@@ -1,0 +1,139 @@
+body {
+	background-color : white;
+	font-family: 'Dela Gothic One', cursive;
+}
+
+img {
+  border-radius: 60%;
+}
+
+.Header {
+	background-color : red;
+}
+
+h1 {
+	font-family: 'Dela Gothic One', cursive;
+	font-size : 45px;
+	color : #70A084;
+	margin : 10px;
+}
+
+h2 {
+	font-family: 'Dela Gothic One', cursive;
+	font-size : 28px;
+	color : #708A84;
+	margin : 10px;
+}
+
+h3 {
+	font-family: 'Dela Gothic One', cursive;
+	font-size : 20px;
+	color : grey;
+	margin : 10px;
+}
+
+h4 {
+	font-family: 'Dela Gothic One', cursive;
+	size : 500px;
+	color : #6DB6D4;
+	text-decoration : underline;
+}
+
+.Statut {
+	font-family: 'Dela Gothic One', cursive;
+	font-size : 28px;
+	color : #585858;	
+}
+
+a:link {
+  color: #A9A9A9;
+}
+
+
+a:hover {
+  color: #4189CC;
+}
+
+a:active {
+  color: grey;
+}
+
+ hr {
+ 	border: 2px solid #708A84;
+ 	border-radius: 7px;
+ 	margin:2px 5px 0em 2px;
+ 	color : #39603D;
+ }
+
+ hr.new {
+ 	border-top: 4px solid grey;
+ }
+
+.Marge {
+ 	margin : 27px;
+ }
+
+ .Marge1 {
+	margin : 2px 0px 0em 85px;
+}
+
+ .Marge2 {
+	margin : 2px 0px 0em 25px;
+}
+
+ .Marge3 {
+	margin : 5px 0px 0em 25px;
+}
+
+ .Marge4 {
+	margin : 5px 35px 0em 25px;
+}
+
+ .FtFam {
+ 	font-family : "Andale Mono", monospace;
+ 	color : grey;
+ 	text-decoration : underline;
+
+ }
+
+ .Fam {
+ 	font-family : "Andale Mono", monospace;
+ 	color : grey;
+ 	size : 70px;
+ }
+
+ .Size {
+ 	size: 50px;
+ }
+
+ ol {
+ 	font-family : "FreeMono", monospace;
+ 	color : grey;
+ 	margin : 2px 0px 1em 25px;
+ 	font-size : 20px;
+ }
+
+ button {
+  	background-color: #89C7C7;
+  	color: white;
+  	padding: 15px 32px;
+  	text-align: center;
+  	font-size: 15px;
+  	margin: 4px 2px;
+  	border-radius: 7px;
+  	cursor: pointer;
+}
+
+textarea {
+	border-radius: 14px;
+}
+
+ p {
+ 	font-family: 'Dela Gothic One', cursive;
+ 	size : 50px;
+ }
+
+ ul {
+ 	font-family: 'Dela Gothic One', cursive;
+ 	size : 50px;
+ }
